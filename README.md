@@ -9,7 +9,7 @@ Currently in closed testing on the Google Play Store.
 ---
 
 ## Become a Tester:
-1) Sign up on this Google Form: https://lnkd.in/g7vygqqd
+1) Sign up on this Google Form: https://docs.google.com/forms/d/e/1FAIpQLSd_p-KJLYu-1epsBpEU0PpgoCVXB74wv0tWOJTQ4OygKZBhTQ/viewform?usp=send_form
 2) I’ll add you to the Closed Testing list.
 3) You’ll get access to FitForge via the Google Play Store.
 
