@@ -77,7 +77,7 @@ Thanks for supporting a hobby project! 😄
 | i18n | Custom i18n — en-AU, en-GB, en-US |
 | Design | Custom design system inspired by Material Design |
 
-^FitForge started with including iOS in mind. Once the Apple Developer Program cost ruled out iOS distribution, I dropped to Android-only and EAS became the obvious choice — purpose-built for Expo, handles Play Store submission, no local toolchain to maintain.
+^FitForge started with iOS in mind. Once the Apple Developer Program cost ruled out iOS distribution, I dropped to Android-only and EAS became the obvious choice — purpose-built for Expo, handles Play Store submission, no local toolchain to maintain.
 
 ---
 
