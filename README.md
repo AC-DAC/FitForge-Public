@@ -58,13 +58,15 @@ Currently in closed testing on the Google Play Store.
 | Layer | Technology |
 |-------|-----------|
 | Framework | React Native (Expo) |
-| Build | EAS Build (cloud) |
+| Build | EAS Build (cloud)^ |
 | Distribution | Google Play Store (Android only) |
 | CI/CD | GitHub Actions → EAS Build → Play Store internal track |
 | Pre-commit | Lefthook — gitleaks secret scanning, build number auto-increment |
 | Testing | Jest — unit tests for utility functions |
 | i18n | Custom i18n — en-AU, en-GB, en-US |
 | Design | Custom design system inspired by Material Design |
+
+^FitForge started with including iOS in mind. Once the Apple Developer Program cost ruled out iOS distribution, I dropped to Android-only and EAS became the obvious choice — purpose-built for Expo, handles Play Store submission, no local toolchain to maintain.
 
 ---
 
