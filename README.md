@@ -143,6 +143,7 @@ Jest unit tests located in `src/utils/__tests__/`.
 | Android build | ✅ Stable |
 | Play Store | 🟡 Closed testing |
 | iOS | Tested and working — not released (Apple Developer Program fee not justified for a hobby app) |
+| Play Store compliance | ✅ Verified — see [PLAY_STORE_COMPLIANCE.md](PLAY_STORE_COMPLIANCE.md) |
 
 ---
 
